@@ -1,0 +1,114 @@
+{
+	"Product": [
+		{
+			"categoryName": "Laptop",
+			"CatId": "1",
+			"description": "Laptops",
+			"SubCategory": [
+				{
+					"SubCatName": "Lenevo",
+					"SubCatId": 101,
+					"SubCatDesciption": "lenevo",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"price": "$850.5",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kiew3gw0/computer/m/p/j/lenovo-original-imafy7ng97axn45e.jpeg?q=70"
+				},
+				{
+					"SubCatName": "Dell",
+					"SubCatId": 102,
+					"SubCatDesciption": "dell",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"price": "$1002.25",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kex5ci80/computer/f/n/k/dell-na-gaming-laptop-original-imafvhkmrntmrfqz.jpeg?q=70"
+				},
+				{
+					"SubCatName": "Apple Mac Book Pro",
+					"SubCatId": 103,
+					"SubCatDesciption": "apple",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"price": "$1200.5",
+					"image": "https://rukminim1.flixcart.com/image/312/312/khdqnbk0/computer/5/d/e/apple-original-imafxfyqkdfxqjab.jpeg?q=70"
+				},
+				{
+					"SubCatName": "HP Laptop",
+					"SubCatId": 104,
+					"SubCatDesciption": "hp",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"price": "$1400.5",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/computer/t/d/f/hp-original-imaftyzafphshjge.jpeg?q=70"
+				},
+				{
+					"SubCatName": "Asus",
+					"SubCatId": 105,
+					"SubCatDesciption": "asus",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"price": "$1200",
+					"image": "https://rukminim1.flixcart.com/image/300/300/kcp4osw0/computer/t/f/z/asus-na-original-imaftrgwna6snfn8.jpeg?q=90"
+				}
+			]
+		},
+		{
+			"categoryName": "Mobile",
+			"CatId": "2",
+			"description": "Mobile phones",
+			"SubCategory": [
+				{
+					"SubCatName": "iPhone XR",
+					"SubCatId": 201,
+					"SubCatDesciption": "apple",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/jnj7iq80/mobile/y/q/d/apple-iphone-xr-mry52hn-a-original-imafa6zkfgwpnsgz.jpeg?q=70",
+					"price": "$700.5"
+				},
+				{
+					"SubCatName": "Samsung Galaxy F41",
+					"SubCatId": 202,
+					"SubCatDesciption": "samsung",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kfzq8i80/mobile/y/j/f/samsung-galaxy-f41-sm-f415fzbdins-original-imafwbnpdafmeuj6.jpeg?q=70",
+					"price": "$200.5"
+				},
+				{
+					"SubCatName": "Real Me",
+					"SubCatId": 203,
+					"SubCatDesciption": "realme",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/klgx0280/mobile/z/b/z/narzo-30a-rmx3171-realme-original-imagyhbgzcyfwzfz.jpeg?q=70",
+					"price": "$105.5"
+				},
+				{
+					"SubCatName": "Nokia",
+					"SubCatId": 204,
+					"SubCatDesciption": "nokia",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kkwwu4w0/mobile/u/i/w/5-4-hq5020m514000-nokia-original-imagy5bqcnefyzdk.jpeg?q=70",
+					"price": "$121.5"
+				},
+				{
+					"SubCatName": "Oppo",
+					"SubCatId": 205,
+					"SubCatDesciption": "oppo",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/knyxqq80/mobile/1/c/5/a53s-5g-cph2321-oppo-original-imag2gwzzxmkwgsn.jpeg?q=70",
+					"price": "$100.5"
+				},
+				{
+					"SubCatName": "iPhone 11",
+					"SubCatId": 206,
+					"SubCatDesciption": "apple",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kgiaykw0/mobile/y/n/y/apple-iphone-11-mhda3hn-a-original-imafwqepdb3fxtug.jpeg?q=70",
+					"price": "$500.5"
+				},
+				{
+					"SubCatName": "Samsung Galaxy F12",
+					"SubCatId": 207,
+					"SubCatDesciption": "samsung",
+					"SubDescText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+					"image": "https://rukminim1.flixcart.com/image/312/312/kn22m4w0/mobile/9/k/s/galaxy-f12-sm-f127glbiins-samsung-original-imagftmhhhvghq7w.jpeg?q=70",
+					"price": "$140.25"
+				}
+			]
+		}
+	]
+}
